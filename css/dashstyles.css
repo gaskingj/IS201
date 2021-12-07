@@ -1,0 +1,30 @@
+.common{
+    border: black 1px solid;
+}
+.nav{
+    text-align: right;
+    font-weight: bold;
+    padding-right: 20px;
+}
+.dash{
+    font-weight: bold;
+    font-size: 26px;
+}
+.dboard{
+    border-top: darkgreen 5px solid;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer{
+    text-align: center;
+    background-color: beige;
+    position:fixed;
+    height:auto;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin-top:20px;
+}
+p{
+    margin-top: 20px;
+}
